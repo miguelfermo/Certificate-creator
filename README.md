@@ -5,7 +5,7 @@ Cria certificados automáticos com base em um arquivo excel base!
 1. Clone este repositório com `git clone` ou baixe o código-fonte.
 2. Instale as dependências, caso houver: `pip install pillow openpyxl`
 
-## 🚀 Execução
+## 🚀 Execução:
 Apenas clicar em 'run' e ele cria todos os certificados com base em um banco de dados em um arquivo excel.
 
 ## 📖 Modelo de certificado usado:
