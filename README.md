@@ -1,5 +1,10 @@
 # ✔ | Criador de certificados automático!
-Cria certificados automáticos com base em um arquivo excel base!
+
+- Cria ``certificados automáticos`` com base em um arquivo excel base! 
+
+- O Programa consiste em criar um sistema usando o Python para automatizar enviando os dados da ``planilha_alunos.xlsx`` para preencher os campos mutáveis no ``certificado_padrao.png`` e gerar um certificado para cada aluno.
+
+- Pegar os dados da Planilha: Nome do curso, data de início, data de término, carga horária, nome do aluno, etc. e preencher o certificado com esses dados...
 
 ## 🔧 Intalação:
 1. Clone este repositório com `git clone` ou baixe o código-fonte.
