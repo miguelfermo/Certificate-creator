@@ -14,6 +14,10 @@
 ## 🚀 Execução:
 Apenas clicar em 'run' e ele cria todos os certificados com base em um banco de dados em um arquivo excel.
 
+## 📩 Dúvidas:
+
+Qualquer dúvida, pode enviar um email para: [Miguel Rossi Fermo](mailto:miguelrossifermo05@gmail.com)
+
 ## 📖 Modelo de certificado usado:
 
 ![image](https://github.com/miguelfermo/Certificate-creator/assets/138122016/2b56ae29-f064-4671-afec-b6bcbc2fd5af)
