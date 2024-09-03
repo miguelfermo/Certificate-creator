@@ -8,7 +8,8 @@
 
 ## 🔧 Intalação:
 1. Clone este repositório com `git clone` ou baixe o código-fonte.
-2. Instale as dependências, caso houver: `pip install pillow openpyxl`
+2. Instalação de Python, caso não estiver previamente instalada em seu computador
+3. Instale as dependências, caso houver: `pip install pillow openpyxl`
 
 ## 🚀 Execução:
 Apenas clicar em 'run' e ele cria todos os certificados com base em um banco de dados em um arquivo excel.
