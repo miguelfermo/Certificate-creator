@@ -1,12 +1,5 @@
 #-----------------------------------------------------#
 
-# Programa consiste em criar um programa usando o Python para automatizar enviando os dados da planilha_alunos.xlsx
-# para preencher os campos mutáveis no certificado_padrao.png e gerar um certificado para cada aluno.
-# Pegar os dados da Planilha: Nome do curso, data de início, data de término, carga horária, nome do aluno, etc.
-# e preencher o certificado com esses dados...
-
-#-----------------------------------------------------#
-
 # Importar as bibliotecas necessárias
 
 import openpyxl
